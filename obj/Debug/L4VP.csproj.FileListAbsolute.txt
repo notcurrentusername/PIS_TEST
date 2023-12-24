@@ -1,0 +1,41 @@
+C:\Users\M112-10.MAIN\source\repos\L4VP\L4VP\bin\Debug\L4VP.exe.config
+C:\Users\M112-10.MAIN\source\repos\L4VP\L4VP\bin\Debug\L4VP.exe
+C:\Users\M112-10.MAIN\source\repos\L4VP\L4VP\bin\Debug\L4VP.pdb
+C:\Users\M112-10.MAIN\source\repos\L4VP\L4VP\obj\Debug\L4VP.csprojAssemblyReference.cache
+C:\Users\M112-10.MAIN\source\repos\L4VP\L4VP\obj\Debug\L4VP.Form1.resources
+C:\Users\M112-10.MAIN\source\repos\L4VP\L4VP\obj\Debug\L4VP.Properties.Resources.resources
+C:\Users\M112-10.MAIN\source\repos\L4VP\L4VP\obj\Debug\L4VP.csproj.GenerateResource.cache
+C:\Users\M112-10.MAIN\source\repos\L4VP\L4VP\obj\Debug\L4VP.csproj.CoreCompileInputs.cache
+C:\Users\M112-10.MAIN\source\repos\L4VP\L4VP\obj\Debug\L4VP.exe
+C:\Users\M112-10.MAIN\source\repos\L4VP\L4VP\obj\Debug\L4VP.pdb
+C:\Users\Kirill\Downloads\afds\bin\Debug\L4VP.exe.config
+C:\Users\Kirill\Downloads\afds\bin\Debug\L4VP.exe
+C:\Users\Kirill\Downloads\afds\bin\Debug\L4VP.pdb
+C:\Users\Kirill\Downloads\afds\obj\Debug\L4VP.csprojAssemblyReference.cache
+C:\Users\Kirill\Downloads\afds\obj\Debug\L4VP.Form1.resources
+C:\Users\Kirill\Downloads\afds\obj\Debug\L4VP.Properties.Resources.resources
+C:\Users\Kirill\Downloads\afds\obj\Debug\L4VP.csproj.GenerateResource.cache
+C:\Users\Kirill\Downloads\afds\obj\Debug\L4VP.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Downloads\afds\obj\Debug\L4VP.exe
+C:\Users\Kirill\Downloads\afds\obj\Debug\L4VP.pdb
+C:\Users\curse\Desktop\vis4\bin\Debug\L4VP.exe.config
+C:\Users\curse\Desktop\vis4\bin\Debug\L4VP.exe
+C:\Users\curse\Desktop\vis4\bin\Debug\L4VP.pdb
+C:\Users\curse\Desktop\vis4\obj\Debug\L4VP.csproj.AssemblyReference.cache
+C:\Users\curse\Desktop\vis4\obj\Debug\L4VP.csproj.SuggestedBindingRedirects.cache
+C:\Users\curse\Desktop\vis4\obj\Debug\L4VP.Form1.resources
+C:\Users\curse\Desktop\vis4\obj\Debug\L4VP.Properties.Resources.resources
+C:\Users\curse\Desktop\vis4\obj\Debug\L4VP.csproj.GenerateResource.cache
+C:\Users\curse\Desktop\vis4\obj\Debug\L4VP.csproj.CoreCompileInputs.cache
+C:\Users\curse\Desktop\vis4\obj\Debug\L4VP.exe
+C:\Users\curse\Desktop\vis4\obj\Debug\L4VP.pdb
+D:\Лабараторные работы\vis4\bin\Debug\L4VP.exe.config
+D:\Лабараторные работы\vis4\bin\Debug\L4VP.exe
+D:\Лабараторные работы\vis4\bin\Debug\L4VP.pdb
+D:\Лабараторные работы\vis4\obj\Debug\L4VP.csproj.AssemblyReference.cache
+D:\Лабараторные работы\vis4\obj\Debug\L4VP.Form1.resources
+D:\Лабараторные работы\vis4\obj\Debug\L4VP.Properties.Resources.resources
+D:\Лабараторные работы\vis4\obj\Debug\L4VP.csproj.GenerateResource.cache
+D:\Лабараторные работы\vis4\obj\Debug\L4VP.csproj.CoreCompileInputs.cache
+D:\Лабараторные работы\vis4\obj\Debug\L4VP.exe
+D:\Лабараторные работы\vis4\obj\Debug\L4VP.pdb
